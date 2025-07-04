@@ -1,0 +1,71 @@
+🧠 Project Title: AI-Based Gutka Spit Detection and Alert System
+
+Made by: Manohar Avinash
+
+
+---
+
+🔍 Project Description:
+
+This innovative project, designed and developed by Manohar Avinash, presents a unique and practical solution to a long-standing social problem — gutka and tobacco spitting in public places. Using a powerful combination of Artificial Intelligence (AI) and Internet of Things (IoT) technologies, this system automatically detects spit stains on walls, corners, or public infrastructure and instantly sends alerts to authorities and users through Telegram and a Blynk mobile app.
+
+A camera module (like ESP32-CAM) captures real-time visuals of a location. These images are processed using a trained AI model to detect whether spit is present. On detection:
+
+The system sends a warning notification to the responsible persons via Telegram bot
+
+Displays alerts on a Blynk IoT dashboard in real-time
+
+Can even trigger sound alarms or capture photos for evidence
+
+
+
+---
+
+🌍 Use in Public Places:
+
+This system is perfect for installation in:
+
+Railway stations
+
+Bus stands
+
+Government buildings
+
+Hospitals
+
+Schools and public toilets
+
+
+Anywhere people usually spit illegally, this system can automatically monitor and alert without needing human supervision.
+
+
+---
+
+✅ Benefits:
+
+🧼 Promotes cleaner and healthier public environments
+
+👮 Helps authorities monitor hygiene and act instantly
+
+🔔 Sends instant alerts without manual reporting
+
+💰 Reduces the cost of frequent cleaning
+
+⚙️ Fully automated and scalable solution
+
+📱 Easy to use through mobile notification apps
+
+
+
+---
+
+💡 Uniqueness of the Project:
+
+This idea is entirely original — no such AI-based gutka spit detection and alert system currently exists in public use. While CCTV surveillance and cleanliness campaigns exist, none offer automatic spit detection with AI, and real-time alerting via mobile and Telegram. This solution fills a major technological and civic gap.
+
+It is a much-needed innovation for a cleaner, smarter, and more responsible society. In the era of Smart Cities, this project truly stands out as a world-first concept.
+
+
+---
+
+✍️ By Manohar Avinash
